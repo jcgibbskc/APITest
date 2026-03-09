@@ -1,0 +1,20 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "API test project using JSONPlaceholder",
+  "main": "task3.js",
+  "scripts": {
+    "start": "node task3.js",
+    "test": "node task3.js"
+  },
+  "keywords": [
+    "api",
+    "test",
+    "jsonplaceholder"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
